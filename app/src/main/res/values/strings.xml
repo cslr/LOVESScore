@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LOVES Score</string>
+    <string name="name_1">Name 1</string>
+    <string name="name_2">Name 2</string>
+    <string name="button_score">CALCULATE</string>
+    <string name="loves">LOVES</string>
+</resources>
